@@ -73,5 +73,5 @@ The complete project report is available in the `report/` folder.
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 This project helped me develop practical digital skills, improve communication, and understand online safety. It has enhanced my ability to use digital tools effectively in academics and future professional work.
