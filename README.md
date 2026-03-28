@@ -6,6 +6,7 @@ Branch: B.Tech CSE(AI&ML)
 Year: First Year
 Course Code: CSE0001
 Course Title: Digital Literacy
+Date: 28-03-2026
 
 This repository contains all tasks for the Digital Literacy project.
 
