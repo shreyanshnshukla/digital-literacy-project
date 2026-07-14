@@ -14,7 +14,7 @@ This repository contains all tasks for the Digital Literacy project.
 
 ##Task Summaries
 
-###Task 1: Digital Literacy Infographic
+###Task 1: Digital Literacy Infographic.
 Created a one-page infographic using Canva covering topics like digital literacy, safe internet practices, useful tools, and email etiquette.
 
 ---
